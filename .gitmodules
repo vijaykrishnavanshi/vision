@@ -1,3 +1,6 @@
 [submodule "mnist-pytorch"]
 	path = mnist-pytorch
 	url = https://github.com/vijaykrishnavanshi/mnist-pytorch.git
+[submodule "unet-pytorch"]
+	path = unet-pytorch
+	url = https://github.com/vijaykrishnavanshi/unet-pytorch.git
